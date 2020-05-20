@@ -1,4 +1,4 @@
-# SPA: App de Contatos - PARTE 2
+# SPA: App de Contatos
 
 ## Objetivo:
 O desafio é desenvolver um *SPA (Single Page Application)* de uma lista de contatos em **React** com as seguintes funcionalidades:
