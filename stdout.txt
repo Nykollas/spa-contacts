@@ -1,0 +1,13 @@
+
+> contacts_app@0.1.0 submit /home/ascencion/codenation/react-14
+> react-scripts test src/__tests__/submit.test.js --reporters=default --reporters=jest-junit "--watchAll=false"
+
+  console.error node_modules/react/cjs/react.development.js:315
+    Warning: Each child in a list should have a unique "key" prop.
+    
+    Check the render method of `Contacts`. See https://fb.me/react-warning-keys for more information.
+        in Contact (at Contacts.jsx:91)
+        in Contacts (at App.jsx:23)
+        in div (at App.jsx:20)
+        in App (at submit.test.js:25)
+
